@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTFEVyW5Iz7tOeMCuZthWHvZWOFmpsgnNF/HB2Vxz7rmdA2Rc1RA0qwCXSbWyFvNDe72dVRkVY4KB3vaesihkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusi_di18\\source\\repos\\Anket\\Anket\\Anket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusi_di18\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
